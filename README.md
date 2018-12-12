@@ -8,19 +8,19 @@ The scanned image will be displayed and saved in `./images` folder.
 
 ## Example
 #### Original Image
-![Alt text](./images/receipt_1.jpg)
+![Original Image](./images/receipt_1.JPG)
 
 #### Edged Image using Gaussian Blur and Canny Edge Detection
-![Alt text](./images/edgedImage.png)
+![Edged Image using Gaussian Blur and Canny Edge Detection](./images/edgedImage.png)
 
 #### Outlined Image
-![Alt text](./images/outline.png)
+![Outlined Image](./images/outline.png)
 
 #### Perspective Transformation
-![Alt text](./images/transformedImage.png)
+![Perspective Transformation](./images/transformedImage.png)
 
 #### Scanned Image
-![Alt text](./images/scanned.png)
+![Scanned Image](./images/scanned.png)
 
 #### Refrences
 [pyimagesearch](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
